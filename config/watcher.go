@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	proto "github.com/micro/config-srv/proto/config"
+	proto "github.com/kt-micro/config-srv-proto/proto/config"
 )
 
 type sourceWatcher struct {
